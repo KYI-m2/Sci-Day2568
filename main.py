@@ -9,4 +9,6 @@ with st.sidebar :
   )
 if tab == 'Home' :
   st.header('Welcome to Sci-Day")
-          
+  st.text('ง๗ง')
+if tab == 'About Sci-Day' :
+  
