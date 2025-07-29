@@ -6,3 +6,5 @@ with st.sidebar :
     ['Home','About Sci-Day','Activities'],
     icon = ['home','book','game']
   )
+if tab == 'Home' :
+  st.text('yippy')
