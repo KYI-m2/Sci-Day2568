@@ -7,4 +7,5 @@ with st.sidebar :
     icon = ['home','book','game']
   )
 if tab == 'Home' :
-  st.text('yippy')
+  st.header('Welcome to Sci-Day")
+          
