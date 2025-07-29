@@ -1,5 +1,6 @@
 import streamlit as st
 import streamlit_option_menu
+import pandas as pd
 with st.sidebar :
   tab = option_menu (
     "Sci-Day",
